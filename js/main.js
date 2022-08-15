@@ -133,7 +133,7 @@ function deleteAlldata() {
 
 // function update data
 function updatedata(i) {
-    // 5 // dataproduct[5] // price
+
     title.value = dataproduct[i].title;
     price.value = dataproduct[i].price;
     tax.value = dataproduct[i].tax;
